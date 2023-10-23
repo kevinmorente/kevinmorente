@@ -1,6 +1,6 @@
 ### Olá, eu sou Kevin Morente 👋
 
-- 🔭 Atualmente não estou trabalhando mas em busca da minha primeira oportunidade na área de DEV (Front, Back)
+- 🔭 Atualmente não estou trabalhando mas em busca da minha primeira oportunidade na área de DEV
 - 🌱 Estou estudando várias linguagens mas vou deixar as principais aqui (AWS, Mysql, JavaScript, NodeJS, C#, HTML5, CSS, React.js, Angular, Python)
 - 📫 Contate-me: morente.kevin@gmail.com
 - 😄 Pronouns: ele/dele
