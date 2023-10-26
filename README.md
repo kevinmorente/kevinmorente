@@ -1,7 +1,7 @@
 ### Olá, eu sou Kevin Morente 👋
 
 - 🔭 Atualmente não estou trabalhando mas em busca da minha primeira oportunidade na área de DEV
-- 🌱 Estou estudando várias linguagens mas vou deixar as principais aqui (AWS, Mysql, JavaScript, NodeJS, C#, HTML5, CSS, React.js, Angular, Python)
+- 🌱 Estou estudando várias linguagens mas vou deixar as principais aqui (Mysql, JavaScript, NodeJS, C#, HTML5, CSS, React.js, Angular, Python)
 - 📫 Contate-me: morente.kevin@gmail.com
 - 😄 Pronouns: ele/dele
 
@@ -18,8 +18,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />     
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />     
 </div>
 
 ##
