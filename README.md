@@ -1,7 +1,7 @@
 ### Olá, eu sou Kevin Morente 👋
 
 - 🔭 Atualmente não estou trabalhando mas em busca da minha oportunidade na área de DEV
-- 🌱 Estou estudando várias linguagens mas vou deixar as principais aqui (Mysql, JavaScript, NodeJS, C#, HTML5, CSS, React.js, Angular, Python, PHP)
+- 🌱 Experiência com Mysql, JavaScript, NodeJS, C#, C++, HTML5, CSS, React.js, Angular.js, Python, Lader e CNC.
 - 📫 Contate-me: morente.kevin@gmail.com
 - 😄 Pronouns: ele/dele
 
